@@ -1,3 +1,2 @@
-ls -l
-ls -n --numeric-uid-gid
-ls -a --all
+#!/bin/bash
+ls -lan
